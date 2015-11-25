@@ -8,6 +8,6 @@ workdir /app
 
 expose 8080
 
-cmd ['ruby','/app/myapp.rb']
-
 run bundle install
+
+cmd ['ruby','/app/myapp.rb']
