@@ -10,4 +10,4 @@ expose 8080
 
 run bundle install
 
-cmd ['ruby','/app/myapp.rb']
+cmd ["ruby","/app/myapp.rb"]
