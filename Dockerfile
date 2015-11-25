@@ -1,6 +1,6 @@
 from ruby
 
-run /app
+run mkdir /app
 
 add . /app
 
