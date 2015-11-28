@@ -1,3 +1,3 @@
 #!/bin/bash
-ln -s . /var/vo/www
+ln -s /app /var/vo/www
 ruby ./myapp.rb
